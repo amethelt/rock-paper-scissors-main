@@ -13,8 +13,8 @@
 ## Installation
 Fork this [remote repository](https://github.com/prof-rossetti/intro-to-python/blob/main/exercises/rock-paper-scissors/README.md) and download onto your computer.
 
-Go to your command liine and type in: 
-cd ~/Desktop/rock-paper-scissors-main
+Go to your command line and type in: 
+cd ~/Desktop/rock-paper-scissors-main to navigate to your code. 
 
 
 
